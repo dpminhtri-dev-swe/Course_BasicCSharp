@@ -1,0 +1,5 @@
+D:\Course C#\CS001_HELLOWORD\bin\Release\net10.0\publish\CS001_HELLOWORD.exe
+D:\Course C#\CS001_HELLOWORD\bin\Release\net10.0\publish\CS001_HELLOWORD.dll
+D:\Course C#\CS001_HELLOWORD\bin\Release\net10.0\publish\CS001_HELLOWORD.deps.json
+D:\Course C#\CS001_HELLOWORD\bin\Release\net10.0\publish\CS001_HELLOWORD.runtimeconfig.json
+D:\Course C#\CS001_HELLOWORD\bin\Release\net10.0\publish\CS001_HELLOWORD.pdb

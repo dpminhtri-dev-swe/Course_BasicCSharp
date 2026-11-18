@@ -1,0 +1,14 @@
+D:\Course C#\CS006_Switch-Case\bin\Debug\net10.0\CS006_Switch-Case.exe
+D:\Course C#\CS006_Switch-Case\bin\Debug\net10.0\CS006_Switch-Case.deps.json
+D:\Course C#\CS006_Switch-Case\bin\Debug\net10.0\CS006_Switch-Case.runtimeconfig.json
+D:\Course C#\CS006_Switch-Case\bin\Debug\net10.0\CS006_Switch-Case.dll
+D:\Course C#\CS006_Switch-Case\bin\Debug\net10.0\CS006_Switch-Case.pdb
+D:\Course C#\CS006_Switch-Case\obj\Debug\net10.0\CS006_Switch-Case.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course C#\CS006_Switch-Case\obj\Debug\net10.0\CS006_Switch-Case.AssemblyInfoInputs.cache
+D:\Course C#\CS006_Switch-Case\obj\Debug\net10.0\CS006_Switch-Case.AssemblyInfo.cs
+D:\Course C#\CS006_Switch-Case\obj\Debug\net10.0\CS006_Switch-Case.csproj.CoreCompileInputs.cache
+D:\Course C#\CS006_Switch-Case\obj\Debug\net10.0\CS006_Switch-Case.dll
+D:\Course C#\CS006_Switch-Case\obj\Debug\net10.0\refint\CS006_Switch-Case.dll
+D:\Course C#\CS006_Switch-Case\obj\Debug\net10.0\CS006_Switch-Case.pdb
+D:\Course C#\CS006_Switch-Case\obj\Debug\net10.0\CS006_Switch-Case.genruntimeconfig.cache
+D:\Course C#\CS006_Switch-Case\obj\Debug\net10.0\ref\CS006_Switch-Case.dll

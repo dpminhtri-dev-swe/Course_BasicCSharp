@@ -1,0 +1,14 @@
+D:\Course C#\C002_Bien,HangSo\bin\Debug\net10.0\C002_Bien,HangSo.exe
+D:\Course C#\C002_Bien,HangSo\bin\Debug\net10.0\C002_Bien,HangSo.deps.json
+D:\Course C#\C002_Bien,HangSo\bin\Debug\net10.0\C002_Bien,HangSo.runtimeconfig.json
+D:\Course C#\C002_Bien,HangSo\bin\Debug\net10.0\C002_Bien,HangSo.dll
+D:\Course C#\C002_Bien,HangSo\bin\Debug\net10.0\C002_Bien,HangSo.pdb
+D:\Course C#\C002_Bien,HangSo\obj\Debug\net10.0\C002_Bien,HangSo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course C#\C002_Bien,HangSo\obj\Debug\net10.0\C002_Bien,HangSo.AssemblyInfoInputs.cache
+D:\Course C#\C002_Bien,HangSo\obj\Debug\net10.0\C002_Bien,HangSo.AssemblyInfo.cs
+D:\Course C#\C002_Bien,HangSo\obj\Debug\net10.0\C002_Bien,HangSo.csproj.CoreCompileInputs.cache
+D:\Course C#\C002_Bien,HangSo\obj\Debug\net10.0\C002_Bien,HangSo.dll
+D:\Course C#\C002_Bien,HangSo\obj\Debug\net10.0\refint\C002_Bien,HangSo.dll
+D:\Course C#\C002_Bien,HangSo\obj\Debug\net10.0\C002_Bien,HangSo.pdb
+D:\Course C#\C002_Bien,HangSo\obj\Debug\net10.0\C002_Bien,HangSo.genruntimeconfig.cache
+D:\Course C#\C002_Bien,HangSo\obj\Debug\net10.0\ref\C002_Bien,HangSo.dll

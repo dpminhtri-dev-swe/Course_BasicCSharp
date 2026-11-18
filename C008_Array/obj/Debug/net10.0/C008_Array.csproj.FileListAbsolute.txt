@@ -1,0 +1,14 @@
+D:\Course C#\C008_Array\bin\Debug\net10.0\C008_Array.exe
+D:\Course C#\C008_Array\bin\Debug\net10.0\C008_Array.deps.json
+D:\Course C#\C008_Array\bin\Debug\net10.0\C008_Array.runtimeconfig.json
+D:\Course C#\C008_Array\bin\Debug\net10.0\C008_Array.dll
+D:\Course C#\C008_Array\bin\Debug\net10.0\C008_Array.pdb
+D:\Course C#\C008_Array\obj\Debug\net10.0\C008_Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course C#\C008_Array\obj\Debug\net10.0\C008_Array.AssemblyInfoInputs.cache
+D:\Course C#\C008_Array\obj\Debug\net10.0\C008_Array.AssemblyInfo.cs
+D:\Course C#\C008_Array\obj\Debug\net10.0\C008_Array.csproj.CoreCompileInputs.cache
+D:\Course C#\C008_Array\obj\Debug\net10.0\C008_Array.dll
+D:\Course C#\C008_Array\obj\Debug\net10.0\refint\C008_Array.dll
+D:\Course C#\C008_Array\obj\Debug\net10.0\C008_Array.pdb
+D:\Course C#\C008_Array\obj\Debug\net10.0\C008_Array.genruntimeconfig.cache
+D:\Course C#\C008_Array\obj\Debug\net10.0\ref\C008_Array.dll

@@ -1,0 +1,14 @@
+D:\Course C#\CS001_HELLOWORD\bin\Release\net10.0\CS001_HELLOWORD.exe
+D:\Course C#\CS001_HELLOWORD\bin\Release\net10.0\CS001_HELLOWORD.deps.json
+D:\Course C#\CS001_HELLOWORD\bin\Release\net10.0\CS001_HELLOWORD.runtimeconfig.json
+D:\Course C#\CS001_HELLOWORD\bin\Release\net10.0\CS001_HELLOWORD.dll
+D:\Course C#\CS001_HELLOWORD\bin\Release\net10.0\CS001_HELLOWORD.pdb
+D:\Course C#\CS001_HELLOWORD\obj\Release\net10.0\CS001_HELLOWORD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course C#\CS001_HELLOWORD\obj\Release\net10.0\CS001_HELLOWORD.AssemblyInfoInputs.cache
+D:\Course C#\CS001_HELLOWORD\obj\Release\net10.0\CS001_HELLOWORD.AssemblyInfo.cs
+D:\Course C#\CS001_HELLOWORD\obj\Release\net10.0\CS001_HELLOWORD.csproj.CoreCompileInputs.cache
+D:\Course C#\CS001_HELLOWORD\obj\Release\net10.0\CS001_HELLOWORD.dll
+D:\Course C#\CS001_HELLOWORD\obj\Release\net10.0\refint\CS001_HELLOWORD.dll
+D:\Course C#\CS001_HELLOWORD\obj\Release\net10.0\CS001_HELLOWORD.pdb
+D:\Course C#\CS001_HELLOWORD\obj\Release\net10.0\CS001_HELLOWORD.genruntimeconfig.cache
+D:\Course C#\CS001_HELLOWORD\obj\Release\net10.0\ref\CS001_HELLOWORD.dll
