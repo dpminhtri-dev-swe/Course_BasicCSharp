@@ -1,0 +1,15 @@
+D:\Course C#\CS009_Method\bin\Debug\net10.0\CS009_Method.exe
+D:\Course C#\CS009_Method\bin\Debug\net10.0\CS009_Method.deps.json
+D:\Course C#\CS009_Method\bin\Debug\net10.0\CS009_Method.runtimeconfig.json
+D:\Course C#\CS009_Method\bin\Debug\net10.0\CS009_Method.dll
+D:\Course C#\CS009_Method\bin\Debug\net10.0\CS009_Method.pdb
+D:\Course C#\CS009_Method\obj\Debug\net10.0\CS009_Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course C#\CS009_Method\obj\Debug\net10.0\CS009_Method.AssemblyInfoInputs.cache
+D:\Course C#\CS009_Method\obj\Debug\net10.0\CS009_Method.AssemblyInfo.cs
+D:\Course C#\CS009_Method\obj\Debug\net10.0\CS009_Method.csproj.CoreCompileInputs.cache
+D:\Course C#\CS009_Method\obj\Debug\net10.0\CS009_Method.sourcelink.json
+D:\Course C#\CS009_Method\obj\Debug\net10.0\CS009_Method.dll
+D:\Course C#\CS009_Method\obj\Debug\net10.0\refint\CS009_Method.dll
+D:\Course C#\CS009_Method\obj\Debug\net10.0\CS009_Method.pdb
+D:\Course C#\CS009_Method\obj\Debug\net10.0\CS009_Method.genruntimeconfig.cache
+D:\Course C#\CS009_Method\obj\Debug\net10.0\ref\CS009_Method.dll
